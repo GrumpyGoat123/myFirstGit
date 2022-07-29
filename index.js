@@ -1,3 +1,5 @@
+console.log('this is a merging conflict');
+
 console.log('Hello World');
 
-console.log('merging conflict');
+console.log('this is a merging conflict');
