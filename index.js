@@ -4,5 +4,8 @@ function addNumbers(){
     console.log(a);
 }
 
-console.log('Hello World');
 addNumbers();
+console.log('Hello World');
+
+console.log('merging conflict resolved');
+
