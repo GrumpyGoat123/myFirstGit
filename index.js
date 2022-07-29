@@ -1,5 +1,8 @@
-console.log('this is a merging conflict');
+function addNumbers(){
+    x = 5, y = 7;
+    a = x+y;
+    console.log(a);
+}
 
 console.log('Hello World');
-
-console.log('this is a merging conflict');
+addNumbers();
